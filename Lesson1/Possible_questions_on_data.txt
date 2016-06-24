@@ -1,0 +1,7 @@
+How long does it take to complete the given project?
+How many students on average get enrolled into particular lesson?
+How often student project get passed?
+What is the chance that student enrolled is also on udacity?
+What is the average time spent by the student in college?
+How likely is that student is bunking the class?
+How many projects are likely to be completed in a particular course?
