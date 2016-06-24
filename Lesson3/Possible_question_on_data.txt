@@ -1,0 +1,5 @@
+At what time of the day, weather condition is expected to be clear?
+At what time of the day, maximum people uses subway station?
+What is the expected crowd on clear and cloudy day at a subway station?
+Does number of people on subway station affects the weather condition of that station?
+Compare the number of entries between the weekday and weekends?
