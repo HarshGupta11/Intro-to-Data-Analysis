@@ -1,0 +1,5 @@
+Which country will have highest GDP in year 2020?
+How employment_above_15 effect the GDP of the country?
+What is the average economy of the whole world?
+How many females are employed on an average?
+What will be the average life expectancy of a person in year 2020? 
