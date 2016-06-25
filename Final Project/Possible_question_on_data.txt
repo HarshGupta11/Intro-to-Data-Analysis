@@ -1,0 +1,6 @@
+How many people on average travel with their family?
+Which class of passenger has a highest survival rate?
+Describe the survival rate of people with the age?
+Show the different types of passenger from each port of embarkation?
+Which class of sex has more chance of survival?
+What factors made people more likely to survive? 
